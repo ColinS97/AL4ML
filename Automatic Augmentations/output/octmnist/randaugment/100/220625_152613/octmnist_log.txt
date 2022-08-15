@@ -1,0 +1,4 @@
+octmnist
+train  auc: 0.99910  acc: 0.98454
+val  auc: 0.98873  acc: 0.95403
+test  auc: 0.96693  acc: 0.77600

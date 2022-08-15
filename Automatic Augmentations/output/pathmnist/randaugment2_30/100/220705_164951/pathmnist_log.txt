@@ -1,0 +1,4 @@
+pathmnist
+train  auc: 0.99913  acc: 0.96352
+val  auc: 0.99994  acc: 0.99390
+test  auc: 0.99530  acc: 0.93705
