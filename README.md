@@ -14,5 +14,5 @@ And we applied an augmentation strategy that was searched for using DeepAugment 
 
 [1] https://github.com/MedMNIST
 [2] https://github.com/tampapath/lung_colon_image_set
-[2] https://github.com/automl/trivialaugment
-[3] https://github.com/barisozmen/deepaugment
+[3] https://github.com/automl/trivialaugment
+[4] https://github.com/barisozmen/deepaugment
